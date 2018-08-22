@@ -1,0 +1,8 @@
+ORIE5270 HW1: What we covered? Why does that matter?
+
+Started with registration of an Amazon Web Services (AWS) account. AWS is essentially based on Amazon Elastic Compute Cloud (Amazon EC2) that provides secure and reliable cloud service where users can manage files and implement programs. This cloud may provide faster computing capacity than local machine which is contingent on the configuration of launched instance.    
+Linux command are introduced to set up projects in AWS and can be used to manage the operating system. Developers can manage project without graphical users interface by coding in Linux Bash, also work with version control system.
+GIT, a popular distributed version control system, enables developers to track all historical working records of projects while collaboratively working as a team. Every contributor to a certain project has records of work on own working environment. 
+Vim is a text editor in unix and brings in convenient shortcuts tools . 
+Shell Script allows to run multiple scripts and incorporate functions parameters. It matters since it can be used to facilitate repeated and ordered projects.
+
