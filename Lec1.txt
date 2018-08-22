@@ -1,0 +1,19 @@
+ORIE 5270 Lecture1
+
+  Basically we start with registration of an Amazon Web Services (AWS) account with Email address, phone number and credit card as requirement. To set it up, we need two other tools: the Linux terminal and Vim.
+https://files.fosswire.com/2007/08/fwunixref.pdf
+https://vim.rtorr.com/
+
+  First join Slack channels so that people can communicate with each other as a group. Then useful info, repos and other info are shared through this portal.
+ 
+  AWS is essentially based on Amazon Elastic Compute Cloud (Amazon EC2) that provides secure and reliable compute capacity in cloud. 
+1.	Launch a instance after registering a free trial account, then find the location of the name.pem file
+2.	Find the working directory of this file; use the name of your computer to get connected in the cloud
+3.	After connecting into the Amazon EC2, being ready to work with GIT.
+
+   Create developer’s own git account which provides repos used for version control and files sharing. 
+1.	First git clone <git SSH> repository, if error occurs, then prompt to set up SSH key that authorizes user’s terminal to communicate with GIT
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+2.	After setting up the SSH key, git clone / git pull – git commit – git push 
+
